@@ -62,4 +62,3 @@ class RangeMinimumQuerySQRT {
         System.out.println("Minimum of range (1, 6) after update: " + rmq.query(1, 6));
     }
 }
-
